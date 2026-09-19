@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/muhuwrch/public_html
+    - /bin/test -d "$DEPLOYPATH"
+    - /bin/cp -R dist/. "$DEPLOYPATH/"
