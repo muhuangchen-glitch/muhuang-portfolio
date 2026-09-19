@@ -1,0 +1,1040 @@
+{
+  "anniversary-cake.jpg": {
+    "bytes": 185541,
+    "dimensions": [
+      1916,
+      1279
+    ],
+    "variants": [
+      {
+        "src": "optimized/anniversary-cake-160.webp",
+        "width": 160,
+        "bytes": 5074
+      },
+      {
+        "src": "optimized/anniversary-cake-480.webp",
+        "width": 480,
+        "bytes": 24072
+      },
+      {
+        "src": "optimized/anniversary-cake-800.webp",
+        "width": 800,
+        "bytes": 47304
+      },
+      {
+        "src": "optimized/anniversary-cake-1200.webp",
+        "width": 1200,
+        "bytes": 80404
+      },
+      {
+        "src": "optimized/anniversary-cake-1916.webp",
+        "width": 1916,
+        "bytes": 148332
+      }
+    ]
+  },
+  "anniversary-celebration.jpg": {
+    "bytes": 166456,
+    "dimensions": [
+      1916,
+      1279
+    ],
+    "variants": [
+      {
+        "src": "optimized/anniversary-celebration-160.webp",
+        "width": 160,
+        "bytes": 3814
+      },
+      {
+        "src": "optimized/anniversary-celebration-480.webp",
+        "width": 480,
+        "bytes": 17776
+      },
+      {
+        "src": "optimized/anniversary-celebration-800.webp",
+        "width": 800,
+        "bytes": 36184
+      },
+      {
+        "src": "optimized/anniversary-celebration-1200.webp",
+        "width": 1200,
+        "bytes": 65940
+      },
+      {
+        "src": "optimized/anniversary-celebration-1916.webp",
+        "width": 1916,
+        "bytes": 128566
+      }
+    ]
+  },
+  "anniversary-design.jpg": {
+    "bytes": 109369,
+    "dimensions": [
+      1896,
+      746
+    ],
+    "variants": [
+      {
+        "src": "optimized/anniversary-design-160.webp",
+        "width": 160,
+        "bytes": 2948
+      },
+      {
+        "src": "optimized/anniversary-design-480.webp",
+        "width": 480,
+        "bytes": 12874
+      },
+      {
+        "src": "optimized/anniversary-design-800.webp",
+        "width": 800,
+        "bytes": 24258
+      },
+      {
+        "src": "optimized/anniversary-design-1200.webp",
+        "width": 1200,
+        "bytes": 37814
+      },
+      {
+        "src": "optimized/anniversary-design-1896.webp",
+        "width": 1896,
+        "bytes": 66718
+      }
+    ]
+  },
+  "anniversary-information.jpg": {
+    "bytes": 125613,
+    "dimensions": [
+      1289,
+      2396
+    ],
+    "variants": [
+      {
+        "src": "optimized/anniversary-information-160.webp",
+        "width": 160,
+        "bytes": 3570
+      },
+      {
+        "src": "optimized/anniversary-information-480.webp",
+        "width": 480,
+        "bytes": 18078
+      },
+      {
+        "src": "optimized/anniversary-information-800.webp",
+        "width": 800,
+        "bytes": 33780
+      },
+      {
+        "src": "optimized/anniversary-information-1200.webp",
+        "width": 1200,
+        "bytes": 56484
+      },
+      {
+        "src": "optimized/anniversary-information-1289.webp",
+        "width": 1289,
+        "bytes": 61868
+      }
+    ]
+  },
+  "anniversary-onsite.jpg": {
+    "bytes": 225140,
+    "dimensions": [
+      1706,
+      1279
+    ],
+    "variants": [
+      {
+        "src": "optimized/anniversary-onsite-160.webp",
+        "width": 160,
+        "bytes": 4676
+      },
+      {
+        "src": "optimized/anniversary-onsite-480.webp",
+        "width": 480,
+        "bytes": 24618
+      },
+      {
+        "src": "optimized/anniversary-onsite-800.webp",
+        "width": 800,
+        "bytes": 57966
+      },
+      {
+        "src": "optimized/anniversary-onsite-1200.webp",
+        "width": 1200,
+        "bytes": 112728
+      },
+      {
+        "src": "optimized/anniversary-onsite-1706.webp",
+        "width": 1706,
+        "bytes": 200662
+      }
+    ]
+  },
+  "anniversary-sign.jpg": {
+    "bytes": 231382,
+    "dimensions": [
+      1280,
+      1706
+    ],
+    "variants": [
+      {
+        "src": "optimized/anniversary-sign-160.webp",
+        "width": 160,
+        "bytes": 10022
+      },
+      {
+        "src": "optimized/anniversary-sign-480.webp",
+        "width": 480,
+        "bytes": 49446
+      },
+      {
+        "src": "optimized/anniversary-sign-800.webp",
+        "width": 800,
+        "bytes": 106012
+      },
+      {
+        "src": "optimized/anniversary-sign-1200.webp",
+        "width": 1200,
+        "bytes": 193218
+      },
+      {
+        "src": "optimized/anniversary-sign-1280.webp",
+        "width": 1280,
+        "bytes": 205350
+      }
+    ]
+  },
+  "honor-championship-2024.jpg": {
+    "bytes": 321874,
+    "dimensions": [
+      1279,
+      2774
+    ],
+    "variants": [
+      {
+        "src": "optimized/honor-championship-2024-160.webp",
+        "width": 160,
+        "bytes": 15998
+      },
+      {
+        "src": "optimized/honor-championship-2024-480.webp",
+        "width": 480,
+        "bytes": 77140
+      },
+      {
+        "src": "optimized/honor-championship-2024-800.webp",
+        "width": 800,
+        "bytes": 142304
+      },
+      {
+        "src": "optimized/honor-championship-2024-1200.webp",
+        "width": 1200,
+        "bytes": 229738
+      },
+      {
+        "src": "optimized/honor-championship-2024-1279.webp",
+        "width": 1279,
+        "bytes": 243452
+      }
+    ]
+  },
+  "honor-game.jpg": {
+    "bytes": 386470,
+    "dimensions": [
+      2774,
+      1279
+    ],
+    "variants": [
+      {
+        "src": "optimized/honor-game-160.webp",
+        "width": 160,
+        "bytes": 4858
+      },
+      {
+        "src": "optimized/honor-game-480.webp",
+        "width": 480,
+        "bytes": 29898
+      },
+      {
+        "src": "optimized/honor-game-800.webp",
+        "width": 800,
+        "bytes": 66246
+      },
+      {
+        "src": "optimized/honor-game-1200.webp",
+        "width": 1200,
+        "bytes": 118140
+      },
+      {
+        "src": "optimized/honor-game-2774.webp",
+        "width": 2774,
+        "bytes": 334394
+      }
+    ]
+  },
+  "honor-management.jpg": {
+    "bytes": 75174,
+    "dimensions": [
+      1279,
+      1062
+    ],
+    "variants": [
+      {
+        "src": "optimized/honor-management-160.webp",
+        "width": 160,
+        "bytes": 3066
+      },
+      {
+        "src": "optimized/honor-management-480.webp",
+        "width": 480,
+        "bytes": 13504
+      },
+      {
+        "src": "optimized/honor-management-800.webp",
+        "width": 800,
+        "bytes": 25158
+      },
+      {
+        "src": "optimized/honor-management-1200.webp",
+        "width": 1200,
+        "bytes": 41978
+      },
+      {
+        "src": "optimized/honor-management-1279.webp",
+        "width": 1279,
+        "bytes": 45580
+      }
+    ]
+  },
+  "honor-rules.jpg": {
+    "bytes": 120910,
+    "dimensions": [
+      106,
+      1280
+    ],
+    "variants": [
+      {
+        "src": "optimized/honor-rules-106.webp",
+        "width": 106,
+        "bytes": 30950
+      }
+    ]
+  },
+  "honor-solo.jpg": {
+    "bytes": 269627,
+    "dimensions": [
+      1279,
+      2774
+    ],
+    "variants": [
+      {
+        "src": "optimized/honor-solo-160.webp",
+        "width": 160,
+        "bytes": 13806
+      },
+      {
+        "src": "optimized/honor-solo-480.webp",
+        "width": 480,
+        "bytes": 56224
+      },
+      {
+        "src": "optimized/honor-solo-800.webp",
+        "width": 800,
+        "bytes": 94816
+      },
+      {
+        "src": "optimized/honor-solo-1200.webp",
+        "width": 1200,
+        "bytes": 149056
+      },
+      {
+        "src": "optimized/honor-solo-1279.webp",
+        "width": 1279,
+        "bytes": 155368
+      }
+    ]
+  },
+  "honor-trophy.jpg": {
+    "bytes": 103555,
+    "dimensions": [
+      1279,
+      1328
+    ],
+    "variants": [
+      {
+        "src": "optimized/honor-trophy-160.webp",
+        "width": 160,
+        "bytes": 3932
+      },
+      {
+        "src": "optimized/honor-trophy-480.webp",
+        "width": 480,
+        "bytes": 19840
+      },
+      {
+        "src": "optimized/honor-trophy-800.webp",
+        "width": 800,
+        "bytes": 39264
+      },
+      {
+        "src": "optimized/honor-trophy-1200.webp",
+        "width": 1200,
+        "bytes": 69766
+      },
+      {
+        "src": "optimized/honor-trophy-1279.webp",
+        "width": 1279,
+        "bytes": 77520
+      }
+    ]
+  },
+  "midautumn-booths.jpg": {
+    "bytes": 281113,
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-booths-160.webp",
+        "width": 160,
+        "bytes": 5050
+      },
+      {
+        "src": "optimized/midautumn-booths-480.webp",
+        "width": 480,
+        "bytes": 30224
+      },
+      {
+        "src": "optimized/midautumn-booths-800.webp",
+        "width": 800,
+        "bytes": 69350
+      },
+      {
+        "src": "optimized/midautumn-booths-1200.webp",
+        "width": 1200,
+        "bytes": 126120
+      },
+      {
+        "src": "optimized/midautumn-booths-1600.webp",
+        "width": 1600,
+        "bytes": 204748
+      }
+    ]
+  },
+  "midautumn-production.jpg": {
+    "bytes": 260999,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-production-160.webp",
+        "width": 160,
+        "bytes": 8506
+      },
+      {
+        "src": "optimized/midautumn-production-480.webp",
+        "width": 480,
+        "bytes": 28462
+      },
+      {
+        "src": "optimized/midautumn-production-800.webp",
+        "width": 800,
+        "bytes": 49936
+      },
+      {
+        "src": "optimized/midautumn-production-1080.webp",
+        "width": 1080,
+        "bytes": 78222
+      }
+    ]
+  },
+  "midautumn-scene-01.jpg": {
+    "bytes": 272459,
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-scene-01-160.webp",
+        "width": 160,
+        "bytes": 6040
+      },
+      {
+        "src": "optimized/midautumn-scene-01-480.webp",
+        "width": 480,
+        "bytes": 33682
+      },
+      {
+        "src": "optimized/midautumn-scene-01-800.webp",
+        "width": 800,
+        "bytes": 71372
+      },
+      {
+        "src": "optimized/midautumn-scene-01-1200.webp",
+        "width": 1200,
+        "bytes": 121424
+      },
+      {
+        "src": "optimized/midautumn-scene-01-1600.webp",
+        "width": 1600,
+        "bytes": 180896
+      }
+    ]
+  },
+  "midautumn-scene-02.jpg": {
+    "bytes": 315181,
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-scene-02-160.webp",
+        "width": 160,
+        "bytes": 5332
+      },
+      {
+        "src": "optimized/midautumn-scene-02-480.webp",
+        "width": 480,
+        "bytes": 35674
+      },
+      {
+        "src": "optimized/midautumn-scene-02-800.webp",
+        "width": 800,
+        "bytes": 83414
+      },
+      {
+        "src": "optimized/midautumn-scene-02-1200.webp",
+        "width": 1200,
+        "bytes": 149830
+      },
+      {
+        "src": "optimized/midautumn-scene-02-1600.webp",
+        "width": 1600,
+        "bytes": 221372
+      }
+    ]
+  },
+  "midautumn-scene-03.jpg": {
+    "bytes": 357761,
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-scene-03-160.webp",
+        "width": 160,
+        "bytes": 6768
+      },
+      {
+        "src": "optimized/midautumn-scene-03-480.webp",
+        "width": 480,
+        "bytes": 37216
+      },
+      {
+        "src": "optimized/midautumn-scene-03-800.webp",
+        "width": 800,
+        "bytes": 85652
+      },
+      {
+        "src": "optimized/midautumn-scene-03-1200.webp",
+        "width": 1200,
+        "bytes": 153234
+      },
+      {
+        "src": "optimized/midautumn-scene-03-1600.webp",
+        "width": 1600,
+        "bytes": 240664
+      }
+    ]
+  },
+  "midautumn-scene-04.jpg": {
+    "bytes": 221604,
+    "dimensions": [
+      1600,
+      1066
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-scene-04-160.webp",
+        "width": 160,
+        "bytes": 5314
+      },
+      {
+        "src": "optimized/midautumn-scene-04-480.webp",
+        "width": 480,
+        "bytes": 27348
+      },
+      {
+        "src": "optimized/midautumn-scene-04-800.webp",
+        "width": 800,
+        "bytes": 55902
+      },
+      {
+        "src": "optimized/midautumn-scene-04-1200.webp",
+        "width": 1200,
+        "bytes": 92618
+      },
+      {
+        "src": "optimized/midautumn-scene-04-1600.webp",
+        "width": 1600,
+        "bytes": 135488
+      }
+    ]
+  },
+  "midautumn-scene-05.jpg": {
+    "bytes": 428741,
+    "dimensions": [
+      1600,
+      2399
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-scene-05-160.webp",
+        "width": 160,
+        "bytes": 8630
+      },
+      {
+        "src": "optimized/midautumn-scene-05-480.webp",
+        "width": 480,
+        "bytes": 48810
+      },
+      {
+        "src": "optimized/midautumn-scene-05-800.webp",
+        "width": 800,
+        "bytes": 107264
+      },
+      {
+        "src": "optimized/midautumn-scene-05-1200.webp",
+        "width": 1200,
+        "bytes": 189038
+      },
+      {
+        "src": "optimized/midautumn-scene-05-1600.webp",
+        "width": 1600,
+        "bytes": 273428
+      }
+    ]
+  },
+  "midautumn-scene-06.jpg": {
+    "bytes": 296736,
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-scene-06-160.webp",
+        "width": 160,
+        "bytes": 6210
+      },
+      {
+        "src": "optimized/midautumn-scene-06-480.webp",
+        "width": 480,
+        "bytes": 34146
+      },
+      {
+        "src": "optimized/midautumn-scene-06-800.webp",
+        "width": 800,
+        "bytes": 74106
+      },
+      {
+        "src": "optimized/midautumn-scene-06-1200.webp",
+        "width": 1200,
+        "bytes": 127970
+      },
+      {
+        "src": "optimized/midautumn-scene-06-1600.webp",
+        "width": 1600,
+        "bytes": 191016
+      }
+    ]
+  },
+  "midautumn-scene-07.jpg": {
+    "bytes": 212830,
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-scene-07-160.webp",
+        "width": 160,
+        "bytes": 4496
+      },
+      {
+        "src": "optimized/midautumn-scene-07-480.webp",
+        "width": 480,
+        "bytes": 24628
+      },
+      {
+        "src": "optimized/midautumn-scene-07-800.webp",
+        "width": 800,
+        "bytes": 52928
+      },
+      {
+        "src": "optimized/midautumn-scene-07-1200.webp",
+        "width": 1200,
+        "bytes": 92128
+      },
+      {
+        "src": "optimized/midautumn-scene-07-1600.webp",
+        "width": 1600,
+        "bytes": 132084
+      }
+    ]
+  },
+  "midautumn-scene-08.jpg": {
+    "bytes": 262011,
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-scene-08-160.webp",
+        "width": 160,
+        "bytes": 7346
+      },
+      {
+        "src": "optimized/midautumn-scene-08-480.webp",
+        "width": 480,
+        "bytes": 35282
+      },
+      {
+        "src": "optimized/midautumn-scene-08-800.webp",
+        "width": 800,
+        "bytes": 68850
+      },
+      {
+        "src": "optimized/midautumn-scene-08-1200.webp",
+        "width": 1200,
+        "bytes": 111986
+      },
+      {
+        "src": "optimized/midautumn-scene-08-1600.webp",
+        "width": 1600,
+        "bytes": 156344
+      }
+    ]
+  },
+  "midautumn-scene-09.jpg": {
+    "bytes": 308899,
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-scene-09-160.webp",
+        "width": 160,
+        "bytes": 7818
+      },
+      {
+        "src": "optimized/midautumn-scene-09-480.webp",
+        "width": 480,
+        "bytes": 41900
+      },
+      {
+        "src": "optimized/midautumn-scene-09-800.webp",
+        "width": 800,
+        "bytes": 86014
+      },
+      {
+        "src": "optimized/midautumn-scene-09-1200.webp",
+        "width": 1200,
+        "bytes": 138808
+      },
+      {
+        "src": "optimized/midautumn-scene-09-1600.webp",
+        "width": 1600,
+        "bytes": 201488
+      }
+    ]
+  },
+  "midautumn-scene-10.jpg": {
+    "bytes": 230928,
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-scene-10-160.webp",
+        "width": 160,
+        "bytes": 4644
+      },
+      {
+        "src": "optimized/midautumn-scene-10-480.webp",
+        "width": 480,
+        "bytes": 24294
+      },
+      {
+        "src": "optimized/midautumn-scene-10-800.webp",
+        "width": 800,
+        "bytes": 52332
+      },
+      {
+        "src": "optimized/midautumn-scene-10-1200.webp",
+        "width": 1200,
+        "bytes": 94604
+      },
+      {
+        "src": "optimized/midautumn-scene-10-1600.webp",
+        "width": 1600,
+        "bytes": 147728
+      }
+    ]
+  },
+  "midautumn-scene-11.jpg": {
+    "bytes": 292759,
+    "dimensions": [
+      1600,
+      1066
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-scene-11-160.webp",
+        "width": 160,
+        "bytes": 7190
+      },
+      {
+        "src": "optimized/midautumn-scene-11-480.webp",
+        "width": 480,
+        "bytes": 37948
+      },
+      {
+        "src": "optimized/midautumn-scene-11-800.webp",
+        "width": 800,
+        "bytes": 76202
+      },
+      {
+        "src": "optimized/midautumn-scene-11-1200.webp",
+        "width": 1200,
+        "bytes": 125308
+      },
+      {
+        "src": "optimized/midautumn-scene-11-1600.webp",
+        "width": 1600,
+        "bytes": 180374
+      }
+    ]
+  },
+  "midautumn-signage.png": {
+    "bytes": 112147,
+    "dimensions": [
+      851,
+      780
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-signage-160.webp",
+        "width": 160,
+        "bytes": 4494
+      },
+      {
+        "src": "optimized/midautumn-signage-480.webp",
+        "width": 480,
+        "bytes": 22498
+      },
+      {
+        "src": "optimized/midautumn-signage-800.webp",
+        "width": 800,
+        "bytes": 44726
+      },
+      {
+        "src": "optimized/midautumn-signage-851.webp",
+        "width": 851,
+        "bytes": 49444
+      }
+    ]
+  },
+  "midautumn-stamping.jpg": {
+    "bytes": 126723,
+    "dimensions": [
+      1600,
+      1066
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-stamping-160.webp",
+        "width": 160,
+        "bytes": 4608
+      },
+      {
+        "src": "optimized/midautumn-stamping-480.webp",
+        "width": 480,
+        "bytes": 21694
+      },
+      {
+        "src": "optimized/midautumn-stamping-800.webp",
+        "width": 800,
+        "bytes": 41970
+      },
+      {
+        "src": "optimized/midautumn-stamping-1200.webp",
+        "width": 1200,
+        "bytes": 69926
+      },
+      {
+        "src": "optimized/midautumn-stamping-1600.webp",
+        "width": 1600,
+        "bytes": 102146
+      }
+    ]
+  },
+  "midautumn-stamps.jpg": {
+    "bytes": 185291,
+    "dimensions": [
+      1157,
+      943
+    ],
+    "variants": [
+      {
+        "src": "optimized/midautumn-stamps-160.webp",
+        "width": 160,
+        "bytes": 8368
+      },
+      {
+        "src": "optimized/midautumn-stamps-480.webp",
+        "width": 480,
+        "bytes": 41202
+      },
+      {
+        "src": "optimized/midautumn-stamps-800.webp",
+        "width": 800,
+        "bytes": 83902
+      },
+      {
+        "src": "optimized/midautumn-stamps-1157.webp",
+        "width": 1157,
+        "bytes": 135010
+      }
+    ]
+  },
+  "portrait.jpg": {
+    "bytes": 122208,
+    "dimensions": [
+      1079,
+      1619
+    ],
+    "variants": [
+      {
+        "src": "optimized/portrait-160.webp",
+        "width": 160,
+        "bytes": 7560
+      },
+      {
+        "src": "optimized/portrait-320.webp",
+        "width": 320,
+        "bytes": 17914
+      }
+    ]
+  },
+  "project-1-cover.jpg": {
+    "bytes": 377008,
+    "dimensions": [
+      1280,
+      2781
+    ],
+    "variants": [
+      {
+        "src": "optimized/project-1-cover-160.webp",
+        "width": 160,
+        "bytes": 19498
+      },
+      {
+        "src": "optimized/project-1-cover-480.webp",
+        "width": 480,
+        "bytes": 98166
+      },
+      {
+        "src": "optimized/project-1-cover-800.webp",
+        "width": 800,
+        "bytes": 178024
+      },
+      {
+        "src": "optimized/project-1-cover-1200.webp",
+        "width": 1200,
+        "bytes": 280926
+      },
+      {
+        "src": "optimized/project-1-cover-1280.webp",
+        "width": 1280,
+        "bytes": 293850
+      }
+    ]
+  },
+  "project-2-cover.jpg": {
+    "bytes": 331870,
+    "dimensions": [
+      1280,
+      2781
+    ],
+    "variants": [
+      {
+        "src": "optimized/project-2-cover-160.webp",
+        "width": 160,
+        "bytes": 16608
+      },
+      {
+        "src": "optimized/project-2-cover-480.webp",
+        "width": 480,
+        "bytes": 87632
+      },
+      {
+        "src": "optimized/project-2-cover-800.webp",
+        "width": 800,
+        "bytes": 159470
+      },
+      {
+        "src": "optimized/project-2-cover-1200.webp",
+        "width": 1200,
+        "bytes": 256724
+      },
+      {
+        "src": "optimized/project-2-cover-1280.webp",
+        "width": 1280,
+        "bytes": 275628
+      }
+    ]
+  },
+  "project-3-cover.jpg": {
+    "bytes": 287687,
+    "dimensions": [
+      1280,
+      2781
+    ],
+    "variants": [
+      {
+        "src": "optimized/project-3-cover-160.webp",
+        "width": 160,
+        "bytes": 12942
+      },
+      {
+        "src": "optimized/project-3-cover-480.webp",
+        "width": 480,
+        "bytes": 67240
+      },
+      {
+        "src": "optimized/project-3-cover-800.webp",
+        "width": 800,
+        "bytes": 130346
+      },
+      {
+        "src": "optimized/project-3-cover-1200.webp",
+        "width": 1200,
+        "bytes": 208516
+      },
+      {
+        "src": "optimized/project-3-cover-1280.webp",
+        "width": 1280,
+        "bytes": 219946
+      }
+    ]
+  }
+}
